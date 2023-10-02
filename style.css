@@ -1,0 +1,196 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+ 
+}
+
+
+.logo{
+  padding-right: 200px;
+  display: inline;
+ 
+ 
+}
+.sec1{
+    background-image: url(https://preview.colorlib.com/theme/easylo/assets/img/hero/h1_hero1.jpg.webp);
+ background-position: center;
+    height: 750px;
+    background-size: cover;
+  background-repeat: no-repeat;
+}
+.header{
+text-align: center;
+
+  
+}
+
+.menu>a{
+  font-size: 18px;
+
+ padding: 20px;
+  color: white;
+  text-decoration: none;
+}
+.menu{
+padding-left: 200px;
+display: inline;
+
+}
+
+.button1{
+  text-decoration: none;
+  color: white;
+  border: 1px;
+  padding: 25px;
+  background-color: aquamarine;
+  display: inline;
+
+}
+.container{
+ 
+justify-content: center;
+  padding-top: 200px;
+  padding-left: 375px;
+  padding-right: 375px;
+  
+
+}
+.text>h1{
+  color: white;
+  font-size: 50px;
+}
+.text{
+
+  width: 300px;
+ 
+
+
+}
+.line1{
+border: 1px solid white;
+width: 100px;
+}
+.service{
+  
+  transition: 1s;
+  top: 20px;
+  padding: 20px;
+  text-decoration: none;
+  color:white;
+  /* From https://css.glass */
+background: rgba(255, 255, 255, 0);
+
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(0px);
+-webkit-backdrop-filter: blur(0px);
+border: 1px solid rgba(255, 255, 255, 1);
+}
+.service:hover{
+  background-color: aquamarine;
+  
+  border: none;
+}
+.Form{
+ 
+  padding: 20px;
+  margin-top: -380px;
+margin-left: 650px;
+  background-color:white ;
+  height: 500px;
+  width: 500px;
+}
+
+.line2{
+margin-left: 180px;
+  border: 1px solid aquamarine;
+width: 100px;
+
+
+}
+.basliq{
+text-align: center;
+}
+#dollar{
+  color: aquamarine;
+  font-size: 18px;
+}
+.apply{
+  text-align: center;
+margin: auto;
+
+}
+
+.apply>button{
+position: relative;
+width: 200px;
+padding: 20px 0;
+margin: 15px 10px;
+text-align: center;
+font-weight: bold;
+border: 2px solid aquamarine;
+background: transparent;
+background-color: aquamarine;
+color: white;
+
+
+}
+
+.sec2{
+  height: 500px;
+}
+.content{
+margin-top: 100px;
+  height: 300px;
+ 
+ text-align: center;
+}
+.line3{
+  width: 200px;
+  border: 1px solid aquamarine;
+
+margin-left: 850px;
+}
+.col1{
+ 
+  width: 300px;
+}
+.col2{
+  
+
+  width: 300px;
+}
+.col3{
+  width: 300px;
+
+}
+.row{
+
+  display: flex;
+ align-items: center;
+ justify-content: space-around;
+}
+#valid1{
+  position: relative;
+width: 440px;
+padding: 15px 0;
+margin: 5px 10px;
+
+font-weight: bold;
+border: 1px solid gray;
+background: transparent;
+
+color: rgb(0, 0, 0);
+}
+#valid2{
+  position: relative;
+  width: 440px;
+  padding: 15px 0;
+  margin: 5px 10px;
+border: 1px solid gray;
+  font-weight: bold;
+
+  background: transparent;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+}
